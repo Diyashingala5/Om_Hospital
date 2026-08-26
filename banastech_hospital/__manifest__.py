@@ -3,6 +3,7 @@
     'version': '18.0.1.0.0',
     'summary': 'Manage patients, appointments and hospital operations',
     'author': 'Banastech Private Limited',
+    'website': 'https://www.banastech.com/',
     'category': 'Healthcare',
     'license': 'LGPL-3',
     'depends': [
